@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 .navbare{
-  position: sticky;
+  position: fixed;
   box-sizing: border-box;
 }
 nav{
